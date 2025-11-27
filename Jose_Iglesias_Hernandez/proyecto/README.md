@@ -6,4 +6,4 @@ git push
 ## Autor
 José Iglesias Hernández
 
-Línea añadida desde rama conflicto por JOSÉ IGLESIAS HERNÁNDEZ
+Línea añadida desde main por JOSÉ IGLESIAS HERNÁNDEZ
