@@ -2,3 +2,6 @@
 git clone
 git commit
 git push
+
+## Autor
+José Iglesias Hernández
